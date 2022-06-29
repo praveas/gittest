@@ -4,5 +4,3 @@ Git Operations
 test    
 
 
-git 
-revert
